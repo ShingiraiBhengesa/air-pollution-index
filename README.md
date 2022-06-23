@@ -1,56 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Air Quality Index
 
-> Description the project.
+> The air pollution web page offers users information on the Air Quality Index (AQI) of the world cities and the detailed measurement of each polluting substance used to measure AQI. Users can search by city name. Built with JavaScript, React, Redux, SCSS.
 
+## Live Demo
+
+[Live Demo Link](https://air-quality-shingie.herokuapp.com/)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- React
+- Redux
+- SCSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Code Editor
+- Git installed
+- Node js installed
+
 ### Setup
 
-### Install
+- To clone the repository run `https://github.com/ShingiraiBhengesa/air-quality-index.git` in your terminal
+- Next run `npm install` to install dependances
+- To run the project run `npm start` this will open your web browser on localhost:3000
 
-### Usage
 
 ### Run tests
 
-### Deployment
-
+- Run `npm test` to jest test results
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Shingirai**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ShingiraiBhengesa](https://github.com/ShingiraiBhengesa)
+- Twitter: [@bhengesa](https://twitter.com/twitterhandle)
+- LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
 
 ## 🤝 Contributing
 
@@ -64,9 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-  Design by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
